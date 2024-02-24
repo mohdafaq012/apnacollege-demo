@@ -1,5 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 </br>
-Author - Mohd Afaq
-
+Author - Mohd Afaq (Hey there)
